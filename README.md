@@ -14,11 +14,11 @@ password ==> 12345
 
 
 <h3>if you want try at your local host:</h3>
-1.download the files and put it in the htdocs [local server Xampp] 
+1.download the files and put it in the htdocs [local server Xampp] <br>
 2.there is folder called sql that has the database for the website,
- upload it in phpmyadmin localhost. 
-3. make sure the connection.php inside folder include and at the admin
- match your localhost phpmyadmin 
+ upload it in phpmyadmin localhost. <br>
+3. make sure the connection.php inside folder include and at the admin<br>
+ match your localhost phpmyadmin <br>
  it should work fine
  
  
