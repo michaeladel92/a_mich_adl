@@ -1,0 +1,10 @@
+@media screen {
+	
+	@media(max-width: 700px){
+		.carousel-caption h1{font-size: 20px;}
+		.carousel-caption .btn{font-size: 15px;}
+		
+	}
+
+
+}

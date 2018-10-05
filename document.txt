@@ -1,0 +1,33 @@
+============================
+Programming used in Website
+============================
+-php native language
+-bootstrap
+-css HTML 
+-Jquery 
+
+===========================
+Creator of the website
+===========================  
+-Created in 27, September 2018 by Michael Adel,
+the Original Idea came from Udemy Course that i watched
+Instructor [Malek Academy], i changed the design
+and added my Coding style, added new feature.
+
+============================
+		NOTICE
+============================
+-website made for my self learning and portfolio, so that i would be 
+able to find an intern job only, its not design to be 
+very secure or for real bloging purpose. 
+
+-the website is not fully responsive, there are some
+designs need to be fix but its work well if you flip the 
+screen like your watching a video.
+
+-some bugs accrue when you copy an entire article and 
+paste it in edit_article.php / new_article.php. mainly 
+from white space new line [\n].
+
+-there is an issue redirecting to 404.php, it stays at same page and dosent 
+redirect it. 
